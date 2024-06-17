@@ -92,7 +92,25 @@ The analogy will use the postal service throughout, and the real-life example wi
 - **Analogy:** Local postal workers ensuring the letter reaches the correct neighborhood or post office within the city.
 
 
+===================================================<br />
 
+Here is a summary that includes the comparisons used to explain each layer:
+
+The passage explains the five layers of a networking model and uses comparisons to describe the role of each layer:
+
+1. Physical Layer - Represents the physical networking hardware like cables, connectors, and specifications for sending signals. Compared to the delivery truck and roads.
+
+2. Data Link Layer - Defines protocols like Ethernet for interpreting signals so devices on the same network can communicate. Compared to how delivery trucks get from one intersection to the next.
+
+3. Network Layer - Allows different networks to communicate with each other through devices known as routers using protocols like IP. Compared to identifying which roads to take from address A to B. 
+
+4. Transport Layer - Handles communication between specific applications using protocols like TCP (reliable) and UDP (unreliable). Compared to the delivery driver knocking on your door when the package arrives.
+
+5. Application Layer - Includes protocols users directly interact with like web browsers and email. Compared to the contents of the delivered package itself.
+
+The layers are visualized as different aspects of a package being delivered to help understand how network communication works from the physical components up to the user applications.<br />
+
+==============================================<br />
 
 
 ## A. Introduction to Defensive Security
@@ -123,7 +141,8 @@ The analogy will use the postal service throughout, and the real-life example wi
   
 
 **Defensive Security: SOC, Threat Intelligence DFIR**
-=====================================
+
+=====================================<br />
 
 ### Security Operations Center (SOC)
 
