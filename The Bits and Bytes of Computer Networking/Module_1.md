@@ -109,6 +109,7 @@ The passage explains the five layers of a networking model and uses comparisons 
 5. Application Layer - Includes protocols users directly interact with like web browsers and email. Compared to the contents of the delivered package itself.
 
 The layers are visualized as different aspects of a package being delivered to help understand how network communication works from the physical components up to the user applications.<br />
+![image](https://github.com/jerrinmg/Goolge_Course/assets/166682032/ac9b127a-8d46-4abb-9416-925680ce375c)
 
 ==============================================<br />
 
